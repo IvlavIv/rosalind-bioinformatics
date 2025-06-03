@@ -28,7 +28,7 @@ This repository contains my solutions to problems from [Rosalind.info](https://r
 | [GC](https://rosalind.info/problems/gc/) | Calculate GC content | `gc.py` |
 | [LCSM](https://rosalind.info/problems/lcsm/) | Find longest common substring | `lcsm.py` |
 | [FIB](https://rosalind.info/problems/fib/) | Fibonacci rabbits problem | `fib.py` |
-| [PERM](https://rosalind.info/problems/perm/) | Enumerate gene orders | `perm.py` |
+| [ORFR](https://rosalind.info/problems/orfr/) | Finding Genes with ORFs | `orfr.py` |
 
 ## 💡 About Me
 

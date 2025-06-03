@@ -40,3 +40,5 @@ You can view my Rosalind profile here: [https://rosalind.info/users/IvlavIv/](ht
 
 Feel free to explore my solutions and reach out if you have any questions or suggestions!
 
+If you have not found a solution, presumably it was made using special soft
+
